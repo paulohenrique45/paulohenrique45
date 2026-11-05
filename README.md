@@ -8,4 +8,3 @@
   <a href="mailto:brunoferreira5299@hotmail.com"><img src="assets/btn-email.svg" height="30" alt="E-mail" /></a>
   <a href="https://github.com/brunoferreira15"><img src="assets/btn-sp.svg" height="30" alt="São Paulo" /></a>
 </div>
-https://github.com/paulohenrique45
