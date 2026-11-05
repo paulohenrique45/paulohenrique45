@@ -1,6 +1,6 @@
 <!-- ========================= BANNER ========================= -->
 <div align="center">
-  <a href="https://github.com/brunoferreira15"><img src="assets/banner.svg" width="100%" alt="Bruno Ferreira — Desenvolvedor FullStack em formação" /></a>
+  <a href="https://github.com/brunoferreira15"><img src="assets/banner.svg" width="100%" alt="Paulo Henrique" /></a>
 
   <a href="https://github.com/brunoferreira15"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=800&height=40&lines=%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Aprendendo+e+evoluindo+todo+dia" alt="Digitando..." /></a>
 
