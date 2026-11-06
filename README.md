@@ -1,5 +1,7 @@
 # Olá, eu sou Henrique Sousa! 👋
 
+![Programando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh4M2E3M3Awazc3b3Bmcm80b2xzYWh5MnB3cDZnMGJkY2Fwc2VnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 ### 🎯 Sobre Mim
 
 Profissional apaixonado por **Tecnologia e Análise de Dados**, com foco em construir soluções eficientes, escaláveis e de alto impacto. Tenho interesse constante em aprender novas tecnologias, resolver problemas complexos e colaborar em projetos inovadores.
