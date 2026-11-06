@@ -29,6 +29,8 @@ Profissional apaixonado por **Tecnologia e Análise de Dados**, com foco em cons
 
 
 ---
+![Henrique Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenrique45&show_icons=true)
+---
 
 ### 📬 Vamos nos conectar!
 
