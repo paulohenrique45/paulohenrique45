@@ -27,9 +27,6 @@ Profissional apaixonado por **Tecnologia e Análise de Dados**, com foco em cons
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80px" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80px" >
 
-
----
-![Henrique Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenrique45&show_icons=true)
 ---
 
 ### 📬 Vamos nos conectar!
