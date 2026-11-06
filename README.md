@@ -6,10 +6,10 @@
 
 Profissional apaixonado por **Tecnologia e Análise de Dados**, com foco em construir soluções eficientes, escaláveis e de alto impacto. Tenho interesse constante em aprender novas tecnologias, resolver problemas complexos e colaborar em projetos inovadores.
 
-- 🔭 Atualmente estudante em **Python**
-- 🌱 Expandindo conhecimentos em **Análise de Dados**
-- 💬 Pode me perguntar sobre **Python**
-- ⚡ Curiosidade: **Sou músico!!!**
+🔭 Atualmente estudante em **Python** <br>
+🌱 Expandindo conhecimentos em **Análise de Dados** <br>
+💬 Pode me perguntar sobre **Python** <br>
+⚡ Curiosidade: **Sou músico!!!**
 
 ---
 
@@ -29,8 +29,9 @@ Profissional apaixonado por **Tecnologia e Análise de Dados**, com foco em cons
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![teste](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)
+
 #### Banco de Dados & Infraestrutura
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
